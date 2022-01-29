@@ -1,5 +1,3 @@
-# corporate_template-
-Bootstrap 4 Create a corporate template 
 <script src="https://gist.github.com/Error-IDK/66a34e0ddc3a507231fdfe2a5f820015.js"></script>
 -- Made by Error_IDK
 -- Version: 3.2
